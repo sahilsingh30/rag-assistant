@@ -12,8 +12,6 @@ The auto-generated Swagger UI at `http://localhost:8000/docs` exposes all endpoi
 ### POST /query — Live API Response
 ![Query endpoint showing 500 error due to missing GROQ_API_KEY](docs/screenshots/query_response.png)
 
-> **Note:** The `500 — Workflow error: 'GROQ_API_KEY'` shown above occurs when the `.env` file is missing or not loaded. This is fixed — `main.py` now calls `load_dotenv()` at startup. Ensure you copy `.env.example` to `.env` and set your Groq key before running. See [Setup](#setup--installation).
-
 ---
 
 ## Table of Contents
