@@ -2,7 +2,7 @@
 
 A self-corrective Retrieval-Augmented Generation system built with **LangGraph**, **ChromaDB**, and **FastAPI**.
 
-> Express Analytics AI/ML Engineer Intern — Take-Home Assignment
+
 
 ---
 
