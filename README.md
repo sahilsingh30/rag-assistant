@@ -2,20 +2,21 @@
 
 A self-corrective Retrieval-Augmented Generation system built with **LangGraph**, **ChromaDB**, and **FastAPI**.
 
-
+> Express Analytics AI/ML Engineer Intern — Take-Home Assignment
 
 ---
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Architecture](#architecture)
-3. [Design Decisions & Tradeoffs](#design-decisions--tradeoffs)
-4. [Setup & Installation](#setup--installation)
-5. [Running the Application](#running-the-application)
-6. [API Reference](#api-reference)
-7. [Example Requests](#example-requests)
-8. [What I'd Improve With More Time](#what-id-improve-with-more-time)
+1. [Screenshots](#screenshots)
+2. [Overview](#overview)
+3. [Architecture](#architecture)
+4. [Design Decisions & Tradeoffs](#design-decisions--tradeoffs)
+5. [Setup & Installation](#setup--installation)
+6. [Running the Application](#running-the-application)
+7. [API Reference](#api-reference)
+8. [Example Requests](#example-requests)
+9. [What I'd Improve With More Time](#what-id-improve-with-more-time)
 
 ---
 
